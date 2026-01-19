@@ -18,6 +18,7 @@ struct Constants {
      static let trendingTVString = "Trending TV"
      static let topRatedMovieString = "Top Rated Movies"
      static let topRatedTVString = "Top Rated TV"
+    
      static let movieSearchString = "Movie Search"
      static let tvSearchString = "TV Search"
      static let moviePlaceHolderString = "Search for a Movie"
